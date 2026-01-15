@@ -1,0 +1,7 @@
+{
+  "name": "Questi - Daily Micro Quests",
+  "description": "A micro-quest game for real life. Complete daily challenges, build streaks, and share your journey with a global community.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
