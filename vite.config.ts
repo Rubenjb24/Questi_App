@@ -20,4 +20,6 @@ export default defineConfig(({ mode }) => {
         }
       }
     };
+    base: '/Questi-App/',
 });
+
