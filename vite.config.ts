@@ -19,7 +19,7 @@ export default defineConfig(({ mode }) => {
           '@': path.resolve(__dirname, '.'),
         }
       }
+        base: '/Questi_App/',
     };
-    base: '/Questi_App/',
 });
 
